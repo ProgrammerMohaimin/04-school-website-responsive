@@ -1,0 +1,97 @@
+.logo-image{
+    width: 100px;
+}
+.position-naves-item{
+    margin-left: 50%;
+}
+.sing-in-button{
+    border: none;
+    border-radius: 50px;
+    padding: 0px 20px;
+    color: white;
+    background-color: #21B573;
+}
+.get-sterted-button:hover{
+        background-color: purple;
+}
+.get-sterted-button{
+    border: none;
+    border-radius: 50px;
+    padding: 5px 20px;
+    color: white;
+    background-color: #21B573;
+
+}
+.sing-in-button:hover{
+    background-color: rgb(10, 202, 10);
+}
+.first-section{
+    background-color: #F0FFF0;
+    height:576px;
+}
+.section1{
+    background-color: #F0FFF0;
+    margin-bottom: 80px;
+}
+.section{
+    margin-bottom: 80px;
+}
+.navbar{
+    background-color: #F0FFF0;
+}
+.top-text{
+    margin-top: 100px;
+}
+.image-shadow{
+   
+    padding: 40px 40px ;
+    background-color: #F8FFFB;
+    border-radius: 7px;
+    text-align: center;
+}
+.image-shadow2{
+  
+    box-shadow: 1px 1px 50px lightgray;
+    padding: 40px 40px ;
+    border-radius: 7px;
+    text-align: center;
+
+}
+.image-shadow:hover{
+    box-shadow: 3px 3px 50px rgb(179, 235, 179);
+}
+.image-shadow2:hover{
+    box-shadow: 3px 3px 50px rgb(98, 100, 98);
+}
+
+.card-footer1{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 5%;
+    padding-bottom: 3%;
+}
+.card1{
+   border: none;
+   box-shadow: 1px 1px 30px lightgray;
+   border-radius: 10px;
+
+}
+.online-courses-h1{
+    margin-bottom: 80px;
+    text-align: center
+}
+.man-image{
+    width: 100px;
+    margin-left:px;
+}
+.footer-class{
+    background-color: rgb(49, 19, 77);
+    height: 650px;
+    color: white;
+}
+#footer-lorem{
+    margin-top: 5%;
+}
+.footer-link{
+      text-decoration: none;
+}
